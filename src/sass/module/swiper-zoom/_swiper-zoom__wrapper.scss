@@ -1,0 +1,11 @@
+@use "global" as *;
+// sp size  375px -> sp
+// tb size  768px -> tb
+// pc size 1440px -> pc
+
+.xxx {
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
