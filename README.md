@@ -42,6 +42,7 @@
 
 ## 更新履歴
 
+- 2022/3/13 branch change name test
 - 2022/3/13 branch test
 - 2022/3/12 new branch 作成。
 - 2022/3/12 prev/next ボタン画像を FontAwesome に変更。
