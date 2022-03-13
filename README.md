@@ -36,12 +36,13 @@
 - Swiper+CSS のみ！ズームアップしながらフェードインで切り替わるスライダーの実装方法
 - https://wemo.tech/2961
 - Download assets If you want to use Swiper assets locally, you can directly download them from https://unpkg.com/swiper@8/
-- アセットをダウンロード Swiperアセットをローカルで使用する場合は、 https：//unpkg.com/swiper@8/から直接ダウンロードできます。
+- アセットをダウンロード Swiper アセットをローカルで使用する場合は、 https：//unpkg.com/swiper@8/から直接ダウンロードできます。
 - https://swiperjs.com/get-started
 - https://unpkg.com/browse/swiper@8.0.7/
 
 ## 更新履歴
 
+- 2022/3/13 branch test
 - 2022/3/12 new branch 作成。
 - 2022/3/12 prev/next ボタン画像を FontAwesome に変更。
 - 2022/3/12 初版 作成完了(真似てそのまま作成しただけ)
